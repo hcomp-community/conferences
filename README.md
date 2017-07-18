@@ -4,7 +4,7 @@ Schedule of conferences relevant to Human Computation (ordered and grouped by de
 
 ## 2017
 |         TITLE        |       LINK       | FULL PAPER DEADLINE | VENUE DATES | VENUE CITY |
-|:-------------------------:|:----------------:|:-------------------:|---------|---------|
+|:-------------------------|:----------------|:-------------------|---------|---------|
 | UIST2017 | [website](https://uist.acm.org/uist2017/)   | 4 April 2017 | 22-25 October 2017 | Quebec City, Canada |
 | HCOMP2017 | [website](https://humancomputation.com/2017/)   | 4 May 2017 | 24-26 October 2017 | Quebec City, Canada |
 | CSCW2018 | [website](https://uist.acm.org/uist2017/)   | 12 June 2017 | 3-7 November 2018 | NYC, USA |
