@@ -12,7 +12,6 @@ Schedule of conferences relevant to Human Computation (ordered and grouped by de
 | CHI2018 | [website](https://chi2018.acm.org)   | 12 September 2017 | 21-26 April 2018 | Montreal, Canada |
 | IUI2018 | [website](http://iui.acm.org/2018/call_for_papers.html)   | 8 October 2017 | 7-11 March 2018 | Tokyo, Japan |
 | TheWebConferece2018 | [website](https://www2018.thewebconf.org)   | 31 October 2017 | 23-27 April 2018 | Lyon, France |
-| WWW2018 | [website](https://www2018.thewebconf.org/call-for-papers/research-tracks-cfp/crowdsourcing/) | 31 October 2017 |  23-27 April 2018 | Lyon, France |
 
 
 
