@@ -10,10 +10,10 @@ Schedule of conferences relevant to Human Computation (ordered and grouped by de
 | CSCW2018 | [website](https://cscw.acm.org/2018/)   | 12 June 2017, another to be defined | 3-7 November 2018 | NYC, USA |
 | AAAI2018 | [website](https://aaai.org/Conferences/AAAI/aaai18.php)   | 8 September 2017 | 2-7 February 2018 | New Orleans, USA |
 | CHI2018 | [website](https://chi2018.acm.org)   | 12 September 2017 | 21-26 April 2018 | Montreal, Canada |
+| IUI2018 | [website](http://iui.acm.org/2018/call_for_papers.html)   | 8 October 2017 | 7-11 March 2018 | Tokyo, Japan |
 | TheWebConferece2018 | [website](https://www2018.thewebconf.org)   | 31 October 2017 | 23-27 April 2018 | Lyon, France |
 | WWW2018 | [website](https://www2018.thewebconf.org/call-for-papers/research-tracks-cfp/crowdsourcing/) | 31 October 2017 |  23-27 April 2018 | Lyon, France |
-| AAAI2018 | [website](https://aaai.org/Conferences/AAAI/2018/aaai18call.php)   | 11 September, 2017 | 2-7 February, 2018 | New Orleans, Louisiana, USA|
-| IUI2018 | [website](http://iui.acm.org/2018/call_for_papers.html)   | 8 October 2017 | 7-11 March 2018 | Tokyo, Japan |
+
 
 
 
