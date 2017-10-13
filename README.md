@@ -4,11 +4,11 @@ Schedule of conferences relevant to Human Computation (ordered and grouped by de
 ## 2018
 |         TITLE        |       LINK       | FULL PAPER DEADLINE | VENUE DATES | VENUE CITY |
 |:-------------------------|:----------------|:-------------------|---------|---------|
-| ICML2018 | [website](http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=67105&copyownerid=2)   | TBD | 10-15 July 2018 | Stockholm, Sweden |
 | HCOMP2018 | [website](https://humancomputation.com/2018/)  | TBD  | ? 2018 | ? |
-| CIKM2018 | [website](http://www.cikm2018.units.it) | TBD   | ? 2018 | Turin, Italy |
 | KDD2018 | [website](http://www.kdd.org/kdd2018/) | TBD   | 19-23 August 2018 | London, UK |
 | VLDB2018 | [website](http://vldb2018.lncc.br) | TBD   | 27-31 August 2018 | Rio, Brazil |
+| ICML2018 | [website](http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=67105&copyownerid=2)   | TBD | 10-15 July 2018 | Stockholm, Sweden |
+| CIKM2018 | [website](http://www.cikm2018.units.it) | TBD   | ? 2018 | Turin, Italy |
 
 
 
