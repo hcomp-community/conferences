@@ -4,8 +4,8 @@ Schedule of conferences relevant to Human Computation (ordered and grouped by de
 ## 2018
 |         TITLE        |       LINK       | FULL PAPER DEADLINE | VENUE DATES | VENUE CITY |
 |:-------------------------|:----------------|:-------------------|---------|---------|
-| ICWE2018 | [website](http://icwe2018.webengineering.org)  | 18 January 2018  | 5-8 June 2018 | CÁCERES, SPAIN |
-| SIGIR2018 | [website](http://sigir.org/sigir2018/)  | 29 January 2018  | 8-12 July 2018 | Ann Arbor Michigan, U.S.A. |
+| ICWE2018 | [website](http://icwe2018.webengineering.org)  | 18 January 2018  | 5-8 June 2018 | Caceres, Spain |
+| SIGIR2018 | [website](http://sigir.org/sigir2018/)  | 29 January 2018  | 8-12 July 2018 | Ann Arbor Michigan, USA |
 | MobileHCI2018 | [website](http://mobilehci.acm.org/2018/)  | 9 February 2018  | 3-6 September 2018 | Barcelona, Spain |
 | HCOMP2018 | [website](https://humancomputation.com/2018/)  | TBD  | ? 2018 | ? |
 | UMAP2018 | [website](http://www.um.org/umap2018/important-dates/)  | 25 February 2018  | 8-11 July 2018 | Singapore |
