@@ -13,6 +13,7 @@ Schedule of conferences relevant to Human Computation (ordered and grouped by de
 | VLDB2018 | [website](http://vldb2018.lncc.br) | TBD   | 27-31 August 2018 | Rio, Brazil |
 | ICML2018 | [website](http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=67105&copyownerid=2)   | TBD | 10-15 July 2018 | Stockholm, Sweden |
 | CIKM2018 | [website](http://www.cikm2018.units.it) | TBD   | ? 2018 | Turin, Italy |
+| RecSys2018 | [website](https://recsys.acm.org/recsys18/) | TBD   | 2-7 October 2018 | Vancouver, Canada |
 
 
 
