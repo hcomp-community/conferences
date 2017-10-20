@@ -48,6 +48,6 @@ If you found a typo, or would like to add a relevant conference, please contribu
 * Edit the readme file in your repository
 * Submit a pull request
 
-
+If you'd like to contribute to the repository extensively, ping me pavel@kucherbaev.com and I give you write access to the repository.
 
 
