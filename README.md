@@ -7,7 +7,7 @@ Schedule of conferences relevant to Human Computation (ordered and grouped by de
 | ICWE2018 | [website](http://icwe2018.webengineering.org)  | 18 January 2018  | 5-8 June 2018 | Caceres, Spain |
 | SIGIR2018 | [website](http://sigir.org/sigir2018/)  | 29 January 2018  | 8-12 July 2018 | Ann Arbor Michigan, USA |
 | MobileHCI2018 | [website](http://mobilehci.acm.org/2018/)  | 9 February 2018  | 3-6 September 2018 | Barcelona, Spain |
-| HCOMP2018 | [website](https://humancomputation.com/2018/)  | 23 February 2018  | 5-8 July 2018 | Zurich, Switzerland |
+| HCOMP2018 | [website](https://humancomputation.com/)  | 23 February 2018  | 5-8 July 2018 | Zurich, Switzerland |
 | UMAP2018 | [website](http://www.um.org/umap2018/important-dates/)  | 25 February 2018  | 8-11 July 2018 | Singapore |
 | KDD2018 | [website](http://www.kdd.org/kdd2018/) | TBD   | 19-23 August 2018 | London, UK |
 | VLDB2018 | [website](http://vldb2018.lncc.br) | TBD   | 27-31 August 2018 | Rio, Brazil |
