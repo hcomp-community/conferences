@@ -9,6 +9,7 @@ Schedule of conferences relevant to Human Computation (ordered and grouped by de
 | MobileHCI2018 | [website](http://mobilehci.acm.org/2018/)  | 9 February 2018  | 3-6 September 2018 | Barcelona, Spain |
 | HCOMP2018 | [website](https://humancomputation.com/)  | 23 February 2018  | 5-8 July 2018 | Zurich, Switzerland |
 | UMAP2018 | [website](http://www.um.org/umap2018/important-dates/)  | 25 February 2018  | 8-11 July 2018 | Singapore |
+| CSCW2018 | [website](https://cscw.acm.org/2018/submit.html)  | 19 April 2018  | 3-7 November 2018 | Jersey City, USA |
 | KDD2018 | [website](http://www.kdd.org/kdd2018/) | TBD   | 19-23 August 2018 | London, UK |
 | VLDB2018 | [website](http://vldb2018.lncc.br) | TBD   | 27-31 August 2018 | Rio, Brazil |
 | ICML2018 | [website](http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=67105&copyownerid=2)   | TBD | 10-15 July 2018 | Stockholm, Sweden |
